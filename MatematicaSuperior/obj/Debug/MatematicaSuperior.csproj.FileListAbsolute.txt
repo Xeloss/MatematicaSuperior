@@ -1,0 +1,5 @@
+C:\Sources\eRealty\MatematicaSuperior\MatematicaSuperior\bin\Debug\MatematicaSuperior.exe.config
+C:\Sources\eRealty\MatematicaSuperior\MatematicaSuperior\bin\Debug\MatematicaSuperior.exe
+C:\Sources\eRealty\MatematicaSuperior\MatematicaSuperior\bin\Debug\MatematicaSuperior.pdb
+C:\Sources\eRealty\MatematicaSuperior\MatematicaSuperior\obj\Debug\MatematicaSuperior.exe
+C:\Sources\eRealty\MatematicaSuperior\MatematicaSuperior\obj\Debug\MatematicaSuperior.pdb
